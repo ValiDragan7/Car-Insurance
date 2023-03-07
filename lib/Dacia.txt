@@ -1,0 +1,7 @@
+Spring 0 euro6 electric
+Sandero 0.8 euro5 benzina
+Logan 1.1 euro3 benzina
+Jogger 1.0 euro6 diesel
+Lodgy 1.6 euro5 benzina
+Duster 1.3 euro6 benzina
+Dokker 1.5 euro4 diesel

@@ -1,0 +1,14 @@
+masina noua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina oua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 4ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 2ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 1ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 5ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 7ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina 9ua  40 Audi A7 1.9 euro6 false false false false true false false false
+masina zua  40 Audi A7 1.9 euro6 false false false false true false false false
+Alarma Noua  43 Audi A4 1.9 euro5 false false false false true false true false
+Iepure Deodor  25 BMW Seria5 1.9 euro4 false true true false true false true true
+DASFG FASSDC  54 volkswagen ID.4 0 euro6 false false false false true true false false
+  DA Audi A6 2.9 euro5 benzina false false true true false false true 2020
+Dragan Valentin  54 Audi Q2 1.6 euro5 diesel true false false true false true false 2022

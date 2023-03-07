@@ -1,0 +1,11 @@
+A-Class 1.6 euro5 diesel
+C-Class 2.0 euro6 diesel
+E-Class 2.0 euro6 benzina
+S-Class 4.2 euro6 diesel
+GLA 1.8 euro4 benzina
+GLC 2.0 euro5 benzina
+GLE 2.4 euro6 diesel
+GLS 3.0 euro6 diesel
+EQE 0 euro6 electric
+EQS 0 euro6 electric
+ 
